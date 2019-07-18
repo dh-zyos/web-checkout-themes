@@ -6,17 +6,17 @@ Vista Prévia de los diferentes "temas" que se pueden usar en WebCheckout Placet
 
 ### Table of Contents
 =================
-   * [Default](#1.-default)
-   * [Blue](#2.-blue)
-   * [Blue 2](#3.-blue-2)
-   * [Purple](#4.-purple)
-   * [Teal](#5.-teal)
-   * [Gray](#6.-gray)
-   * [Red](#7.-red)
-   * [Cyan](#8.-cyan)
-   * [Gray Blue](#9.-grayblue)
-   * [Indigo](#.10-indigo)
-   * [Green](#.11-green)
+   * [Default](#1-default)
+   * [Blue](#2-blue)
+   * [Blue 2](#3-blue-2)
+   * [Purple](#4-purple)
+   * [Teal](#5-teal)
+   * [Gray](#6-gray)
+   * [Red](#7-red)
+   * [Cyan](#8-cyan)
+   * [Gray Blue](#9-grayblue)
+   * [Indigo](#10-indigo)
+   * [Green](#11-green)
    * [Green PlacetoPay](#12-green-placetopay)
 
 #### 1. Default

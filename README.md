@@ -59,7 +59,7 @@ Esta es la versión por defecto, no necesitas cambiar nada.
 ![palette-4-gray](/img/palette-5-gray.png)
 
 ```css
-@import "https://checkout.placetopay.com/assets/css/v3/palettes/palette-6-gray.css";
+@import "https://checkout.placetopay.com/assets/css/v3/palettes/palette-5-gray.css";
 ```
 
 #### 7. Red
@@ -73,7 +73,7 @@ Esta es la versión por defecto, no necesitas cambiar nada.
 ![palette-7-cyan](/img/palette-7-cyan.png)
 
 ```css
-@import "https://checkout.placetopay.com/assets/css/v3/palettes/palette-8-cyan.css";
+@import "https://checkout.placetopay.com/assets/css/v3/palettes/palette-7-cyan.css";
 ```
 
 #### 9. GrayBlue
